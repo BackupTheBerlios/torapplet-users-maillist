@@ -1,0 +1,15 @@
+From fabrizio at fabriziotarizzo.org  Wed Dec 21 19:19:07 2005
+From: fabrizio at fabriziotarizzo.org (Fabrizio Tarizzo)
+Date: Wed, 21 Dec 2005 19:19:07 +0100
+Subject: [Torapplet-users] test
+Message-ID: <1135189147.9537.3.camel@localhost.localdomain>
+
+test
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: Questa parte del messaggio ? firmata
+URL: <https://lists.berlios.de/pipermail/torapplet-users/attachments/20051221/f495d0a2/attachment.pgp>
+
